@@ -1,0 +1,9 @@
+ @import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Open+Sans&family=Poppins:ital@0;1&family=Raleway&family=Roboto&display=swap');
+#css{
+  font-variant:small-caps;
+
+ font-weight: 900;
+
+ font-style: italic;
+}
+ p{font-size: 15px;}
